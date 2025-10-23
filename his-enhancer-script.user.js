@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         HIS系统患者信息增强
 // @namespace    http://tampermonkey.net/
-// @version      2.5.1
+// @version      2.5
 // @description  在查询患者列表时，自动获取并拼接**最近一位**患者的治疗项目、护士、助理和日期信息到备注字段。
 // @author       You
 // @match        http://his.shmylike.cn/*
