@@ -10,8 +10,8 @@
 // @grant        unsafeWindow
 // @require      https://scriptcat.org/lib/637/1.4.8/ajaxHooker.js#sha256=dTF50feumqJW36kBpbf6+LguSLAtLr7CEs3oPmyfbiM=
 // @run-at       document-end
-// @updateURL    https://cdn.jsdelivr.net/gh/HelloKitty2022/his-enhancer-script@main/his-enhancer-script.user.js
-// @downloadURL  https://cdn.jsdelivr.net/gh/HelloKitty2022/his-enhancer-script@main/his-enhancer-script.user.js
+// @updateURL    https://raw.githubusercontent.com/HelloKitty2022/his-enhancer-script/refs/heads/main/his-enhancer-script.user.js
+// @downloadURL  https://raw.githubusercontent.com/HelloKitty2022/his-enhancer-script/refs/heads/main/his-enhancer-script.user.js
 // ==/UserScript==
  
 (function() {
